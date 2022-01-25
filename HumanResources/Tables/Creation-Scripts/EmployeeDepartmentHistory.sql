@@ -9,6 +9,7 @@ CREATE TABLE [HumanResources].[EmployeeDepartmentHistory](
 	[StartDate] [date] NOT NULL,
 	[EndDate] [date] NULL,
 	[ModifiedDate] [datetime] NOT NULL,
+	[zxcv] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
  CONSTRAINT [PK_EmployeeDepartmentHistory_BusinessEntityID_StartDate_DepartmentID] PRIMARY KEY CLUSTERED 
 (
 	[BusinessEntityID] ASC,

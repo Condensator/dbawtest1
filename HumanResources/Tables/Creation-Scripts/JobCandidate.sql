@@ -7,6 +7,7 @@ CREATE TABLE [HumanResources].[JobCandidate](
 	[BusinessEntityID] [int] NULL,
 	[Resume] [xml](CONTENT [HumanResources].[HRResumeSchemaCollection]) NULL,
 	[ModifiedDate] [datetime] NOT NULL,
+	[qwer] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
  CONSTRAINT [PK_JobCandidate_JobCandidateID] PRIMARY KEY CLUSTERED 
 (
 	[JobCandidateID] ASC

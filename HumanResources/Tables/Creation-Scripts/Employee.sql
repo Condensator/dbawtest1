@@ -19,6 +19,7 @@ CREATE TABLE [HumanResources].[Employee](
 	[CurrentFlag] [dbo].[Flag] NOT NULL,
 	[rowguid] [uniqueidentifier] ROWGUIDCOL  NOT NULL,
 	[ModifiedDate] [datetime] NOT NULL,
+	[qwer] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
  CONSTRAINT [PK_Employee_BusinessEntityID] PRIMARY KEY CLUSTERED 
 (
 	[BusinessEntityID] ASC

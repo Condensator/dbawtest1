@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "uspLogError",
+    "type": "Procedure"
+  },
+  {
+    "schema": "",
+    "name": "HumanResources",
+    "type": "Schema"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "UnitMeasure",
+    "type": "Table"
+  },
+  {
+    "schema": "",
+    "name": "Purchasing",
+    "type": "Schema"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "Vendor",
+    "type": "Table"
+  }
+]

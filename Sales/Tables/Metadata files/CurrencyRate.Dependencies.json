@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "Currency",
+    "type": "Table"
+  }
+]

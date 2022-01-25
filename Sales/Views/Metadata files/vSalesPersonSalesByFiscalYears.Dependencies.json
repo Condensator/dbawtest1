@@ -1,0 +1,37 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "Type"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  },
+  {
+    "schema": "",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesOrderHeader",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesPerson",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesTerritory",
+    "type": "Table"
+  }
+]

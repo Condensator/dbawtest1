@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesTerritory",
+    "type": "Table"
+  }
+]

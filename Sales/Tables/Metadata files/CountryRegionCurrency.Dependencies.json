@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "Person",
+    "name": "CountryRegion",
+    "type": "Table"
+  },
+  {
+    "schema": "",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "Currency",
+    "type": "Table"
+  }
+]

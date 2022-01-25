@@ -1,0 +1,67 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "Type"
+  },
+  {
+    "schema": "dbo",
+    "name": "Phone",
+    "type": "Type"
+  },
+  {
+    "schema": "",
+    "name": "HumanResources",
+    "type": "Schema"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "AdditionalContactInfoSchemaCollection",
+    "type": "XML Type"
+  },
+  {
+    "schema": "Person",
+    "name": "Address",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntityAddress",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "CountryRegion",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "EmailAddress",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "PersonPhone",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "PhoneNumberType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "StateProvince",
+    "type": "Table"
+  }
+]

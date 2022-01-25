@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesOrderHeader",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesReason",
+    "type": "Table"
+  }
+]

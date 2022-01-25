@@ -1,0 +1,32 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "Type"
+  },
+  {
+    "schema": "",
+    "name": "Production",
+    "type": "Schema"
+  },
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "ProductDescription",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "ProductModel",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "ProductModelProductDescriptionCulture",
+    "type": "Table"
+  }
+]

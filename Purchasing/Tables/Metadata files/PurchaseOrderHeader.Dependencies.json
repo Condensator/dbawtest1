@@ -1,0 +1,27 @@
+[
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "",
+    "name": "Purchasing",
+    "type": "Schema"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "PurchaseOrderHeader",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "ShipMethod",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "Vendor",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "Type"
+  },
+  {
+    "schema": "",
+    "name": "Production",
+    "type": "Schema"
+  },
+  {
+    "schema": "Production",
+    "name": "ManuInstructionsSchemaCollection",
+    "type": "XML Type"
+  },
+  {
+    "schema": "Production",
+    "name": "ProductDescriptionSchemaCollection",
+    "type": "XML Type"
+  }
+]

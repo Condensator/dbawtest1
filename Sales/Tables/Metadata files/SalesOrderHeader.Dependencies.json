@@ -1,0 +1,62 @@
+[
+  {
+    "schema": "dbo",
+    "name": "AccountNumber",
+    "type": "Type"
+  },
+  {
+    "schema": "dbo",
+    "name": "Flag",
+    "type": "Type"
+  },
+  {
+    "schema": "dbo",
+    "name": "OrderNumber",
+    "type": "Type"
+  },
+  {
+    "schema": "Person",
+    "name": "Address",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "ShipMethod",
+    "type": "Table"
+  },
+  {
+    "schema": "",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "CreditCard",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "CurrencyRate",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Customer",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesOrderHeader",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesPerson",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesTerritory",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Flag",
+    "type": "Type"
+  },
+  {
+    "schema": "",
+    "name": "Production",
+    "type": "Schema"
+  },
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "ProductPhoto",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Flag",
+    "type": "Type"
+  },
+  {
+    "schema": "",
+    "name": "HumanResources",
+    "type": "Schema"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  }
+]

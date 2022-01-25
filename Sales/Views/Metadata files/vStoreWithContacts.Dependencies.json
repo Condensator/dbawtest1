@@ -1,0 +1,52 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "Type"
+  },
+  {
+    "schema": "dbo",
+    "name": "Phone",
+    "type": "Type"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntityContact",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "ContactType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "EmailAddress",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "PersonPhone",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "PhoneNumberType",
+    "type": "Table"
+  },
+  {
+    "schema": "",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "Store",
+    "type": "Table"
+  }
+]

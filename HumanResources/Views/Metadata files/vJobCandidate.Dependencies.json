@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "HumanResources",
+    "type": "Schema"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "JobCandidate",
+    "type": "Table"
+  }
+]

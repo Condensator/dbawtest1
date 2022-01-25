@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "",
+    "name": "Person",
+    "type": "Schema"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntity",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "ContactType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  }
+]

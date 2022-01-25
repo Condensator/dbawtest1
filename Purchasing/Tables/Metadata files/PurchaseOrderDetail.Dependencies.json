@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  },
+  {
+    "schema": "",
+    "name": "Purchasing",
+    "type": "Schema"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "PurchaseOrderDetail",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "PurchaseOrderHeader",
+    "type": "Table"
+  }
+]

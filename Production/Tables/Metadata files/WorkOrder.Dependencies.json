@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "",
+    "name": "Production",
+    "type": "Schema"
+  },
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "ScrapReason",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "WorkOrder",
+    "type": "Table"
+  }
+]
